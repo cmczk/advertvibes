@@ -9,7 +9,7 @@
       <div class="lets-check-out-feedback-1">
         <img
           class="lets-check-out-feedback-img-1"
-          src="/images/feedback-1.jpg"
+          src="/advertvibes/images/feedback-1.jpg"
           alt=""
           loading="lazy"
         />
@@ -17,7 +17,7 @@
       <div class="lets-check-out-feedback-2">
         <img
           class="lets-check-out-feedback-img-2"
-          src="/images/feedback-2.jpg"
+          src="/advertvibes/images/feedback-2.jpg"
           alt=""
           loading="lazy"
         />
@@ -26,7 +26,7 @@
     <div class="lets-check-out-feedback-3">
       <img
         class="lets-check-out-feedback-img-3"
-        src="/images/feedback-3.jpg"
+        src="/advertvibes/images/feedback-3.jpg"
         alt=""
         loading="lazy"
       />
@@ -34,7 +34,7 @@
     <div class="lets-check-out-feedback-4">
       <img
         class="lets-check-out-feedback-img-4"
-        src="/images/feedback-4.jpg"
+        src="/advertvibes/images/feedback-4.jpg"
         alt=""
         loading="lazy"
       />
