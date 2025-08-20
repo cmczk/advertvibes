@@ -74,7 +74,7 @@
   .header-approach {
     font-family: var(--inter);
     font-weight: 400;
-    font-size: clamp(20px, 1.25vw, 24px);
+    font-size: clamp(16px, 1.25vw, 24px);
     text-align: center;
     color: white;
     @media (max-width: 1024px) {
