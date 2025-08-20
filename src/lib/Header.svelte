@@ -11,6 +11,7 @@
 
 <style>
   .header {
+    position: relative;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -76,5 +77,10 @@
     font-size: clamp(20px, 1.25vw, 24px);
     text-align: center;
     color: white;
+    @media (max-width: 1024px) {
+      position: absolute;
+      top: 54%;
+      margin-top: (0px, 0.5vw, 5px);
+    }
   }
 </style>
