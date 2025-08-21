@@ -193,10 +193,22 @@
   }
 
   @media (max-width: 768px) {
+    .wrapper-2 {
+      order: 2;
+    }
+
+    .wrapper-3 {
+      order: 3;
+    }
+
     .wrapper-1,
     .wrapper-3 {
       width: 100%;
       flex: 1 1 100%;
+    }
+
+    .sets-me-apart-card {
+      width: 100%;
     }
   }
 </style>
