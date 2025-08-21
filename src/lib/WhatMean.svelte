@@ -44,7 +44,7 @@
     @media (max-width: 1024px) {
       flex-direction: column;
       row-gap: 15px;
-      padding-inline: clamp(40px, 4.2vw, 80px);
+      padding-inline: clamp(20px, 4.2vw, 80px);
     }
   }
 
@@ -112,7 +112,7 @@
     font-family: var(--inter);
     font-size: clamp(17px, 1.07vw, 20px);
     background-color: var(--color-bg-gray);
-    border-radius: 10px;
+    border-radius: 12px;
     padding-inline: 20px;
     padding-block: 10px;
     color: white;

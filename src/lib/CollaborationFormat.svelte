@@ -69,7 +69,7 @@
 
   .choose-format-header {
     text-align: center;
-    font-size: clamp(48px, 3.5vw, 67px);
+    font-size: clamp(42px, 3.5vw, 67px);
     line-height: 1.2;
     font-family: var(--playfair);
     color: var(--color-text-gray);
