@@ -71,7 +71,7 @@
   .lets-check-out-title {
     color: var(--color-text-gray);
     line-height: 1.2;
-    font-size: 37pt;
+    font-size: clamp(48px, 2.6vw, 37pt);
     grid-row: 1 / 2;
     font-family: var(--playfair);
     text-transform: uppercase;
@@ -107,6 +107,7 @@
       width: 100%;
       aspect-ratio: 280 / 175;
       height: auto;
+      max-height: 250px;
       transform: translate(0);
       margin-bottom: 15px;
     }
@@ -128,6 +129,7 @@
       width: 100%;
       aspect-ratio: 380 / 240;
       height: auto;
+      max-height: 250px;
       transform: translate(0);
     }
   }

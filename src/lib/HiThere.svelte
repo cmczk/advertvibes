@@ -70,11 +70,12 @@
   }
 
   .hi-there-text {
-    font-size: clamp(20px, 1.25vw, 24px);
+    font-size: clamp(17px, 1.25vw, 24px);
     width: 100%;
-    max-width: 60vw;
+    max-width: 50vw;
     @media (max-width: 1024px) {
       text-align: center;
+      max-width: 80vw;
     }
   }
 

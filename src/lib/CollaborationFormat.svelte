@@ -69,7 +69,7 @@
 
   .choose-format-header {
     text-align: center;
-    font-size: clamp(40px, 3.5vw, 67px);
+    font-size: clamp(48px, 3.5vw, 67px);
     line-height: 1.2;
     font-family: var(--playfair);
     color: var(--color-text-gray);
@@ -110,7 +110,7 @@
   }
 
   .choose-format-card-line {
-    font-size: clamp(15px, 0.94vw, 18px);
+    font-size: clamp(17px, 0.94vw, 18px);
     background-color: var(--color-light-orange);
     border-radius: 12px;
     padding: 15px;

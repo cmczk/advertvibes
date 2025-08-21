@@ -56,7 +56,7 @@
   .what-mean-title {
     font-family: var(--playfair);
     font-weight: 400;
-    font-size: clamp(44px, 2.77vw, 40pt);
+    font-size: clamp(48px, 2.77vw, 40pt);
     color: var(--color-text-gray);
     text-transform: uppercase;
     line-height: 1.2;
